@@ -16,6 +16,5 @@
 !/log/.keep
 /tmp
 /vendor/*
-/bin
 /log
 .idea/*
