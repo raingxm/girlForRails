@@ -30,3 +30,7 @@ table, td, th {
 th {
     border-bottom: 1px solid #DDD;
 }
+
+.new_idea .field input, .new_idea .actions input {
+    margin: 10px 0;
+}
