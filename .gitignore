@@ -20,3 +20,4 @@
 .idea/*
 uploads
 public/uploads
+.DS_Store
